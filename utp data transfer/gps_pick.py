@@ -38,7 +38,7 @@ def module_check(status):
         informating("module ready...")
         status = 1
     else:
-        informating("module start error" + response1)
+        informating("module start error: " + response1)
         status = 0
 def gps_on(status):
     #Включаем gps
@@ -69,7 +69,7 @@ if status:
         informating(f"location: {gps_info()}")
         sleep(2)
 else:
-    informating("error")
+    informating("rror")
 
 #sock.close()
 gps.close()
