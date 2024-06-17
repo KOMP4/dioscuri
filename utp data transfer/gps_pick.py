@@ -1,29 +1,54 @@
-import serial
-import socket
+#from PySide6 import QtWidgets, uic  #подключаем библиотеки для создания программы и для создания интерфейса
+from PySide6.QtSerialPort import QSerialPort, QSerialPortInfo  #подключаем библиотеку для работы с UART
+from PySide6.QtCore import QIODevice  #подключаем библиотеку для работы библиотеки UART
+
+#import socket...
+
 from time import sleep
 
 
-###Settings
+#-----------------Settings---------------#
 UDP_IP = "0.0.0.0"
 UDP_PORT = 22222
-UART_PORT = 'COM7'
+
+UART_PORT = 'COM11'
+UART_SPEED = 115200
+
 
 #-----------------UDP initialisation---------------#
 #sock = socket.socket(socket.AF_INET, # Internet
 #                socket.SOCK_DGRAM) # UDP
 #sock.bind((UDP_IP, UDP_PORT))
 
-#-----------------UART initialisation--------------#
-gps = serial.Serial(
-    port=UART_PORT,
-    baudrate=115200,
-    #parity=serial.PARITY_ODD,
-    #stopbits=serial.STOPBITS_TWO,
-    #bytesize=serial.SEVENBITS
-)
-sleep(2)#без этого уарт не робит!!!!
+#-----------------UART------------------#
+#функция для открытия выбранного порта
+class Uart:
 
-#Дублируем инфу во все каналы
+    def __init__(self, port, speed, name):
+        self.port = port
+        self.speed = speed
+        self.name = name
+
+    def mounting(self, port, speed):
+        self.name = QSerialPort()
+        self.name.setBaudRate(speed)
+        self.name.setPortName(port)
+        self.name.open(QIODevice.ReadWrite)
+        informating(self.port + " - is open")
+
+    def unmounting(self):
+        self.name.close()  #закрываем COM порт
+        informating(self.port + " - is close")
+    def read_from_COM(self):  #функция для чтения принятых данных с COM порта
+        rx = self.name.read(1)  #читаем 1 байт в hex виде
+        rx_ascii=self.name.hexlify(rx)  #переводим из hex в ascii для правильного отображения
+        print(rx_ascii)
+        rxs = str(rx_ascii, 'utf-8')
+    
+
+
+
+#Дублируем информацию во все каналы
 def informating(msg):
     msg = str(msg)
     print(msg)
@@ -32,8 +57,11 @@ def informating(msg):
 
 def module_check(status):
     #пингуем модуль
+    print("module_check start")
     gps.write(b"AT\n\r")
+    print("AT sended")
     response1 = gps.readline().decode().strip()
+    print("get response")
     if response1 == "OK":
         informating("module ready...")
         status = 1
@@ -59,17 +87,20 @@ def gps_info():
     return gps.readline().decode()
     ## не доделано
 
-status = 0
-module_check(status)
-gps_on(status)
-if status:
-    informating("gps start...")
-    switch = 1
-    while switch:
-        informating(f"location: {gps_info()}")
-        sleep(2)
-else:
-    informating("rror")
+if __name__ == "__main__":
+
+
+
+
+
+# gps_on(status)
+# if status:
+#     informating("gps start...")
+#     switch = 1
+#     while switch:
+#         informating(f"location: {gps_info()}")
+#         sleep(2)
+# else:
+#     informating("error")
 
 #sock.close()
-gps.close()
