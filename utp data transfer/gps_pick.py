@@ -5,46 +5,44 @@ from PySide6.QtCore import QIODevice  #подключаем библиотеку
 #import socket...
 
 from time import sleep
-
+import binascii
 
 #-----------------Settings---------------#
 UDP_IP = "0.0.0.0"
 UDP_PORT = 22222
 
-UART_PORT = 'COM11'
-UART_SPEED = 115200
+GPS_UART_PORT = 'COM11'
+GPS_UART_SPEED = 115200
 
 
-#-----------------UDP initialisation---------------#
+#-----------------UDP-------------------#
 #sock = socket.socket(socket.AF_INET, # Internet
 #                socket.SOCK_DGRAM) # UDP
 #sock.bind((UDP_IP, UDP_PORT))
 
 #-----------------UART------------------#
-#функция для открытия выбранного порта
-class Uart:
+uart = QSerialPort()
 
-    def __init__(self, port, speed, name):
-        self.port = port
-        self.speed = speed
-        self.name = name
+def uart_mounting(port, speed):
+    uart.setBaudRate(speed)
+    uart.setPortName(port)
+    uart.open(QIODevice.ReadWrite)
+    informating(port + " - is open")
 
-    def mounting(self, port, speed):
-        self.name = QSerialPort()
-        self.name.setBaudRate(speed)
-        self.name.setPortName(port)
-        self.name.open(QIODevice.ReadWrite)
-        informating(self.port + " - is open")
+def uart_unmounting(port):
+    uart.close()  #закрываем COM порт
+    informating(port  + " - is close")
 
-    def unmounting(self):
-        self.name.close()  #закрываем COM порт
-        informating(self.port + " - is close")
-    def read_from_COM(self):  #функция для чтения принятых данных с COM порта
-        rx = self.name.read(1)  #читаем 1 байт в hex виде
-        rx_ascii=self.name.hexlify(rx)  #переводим из hex в ascii для правильного отображения
-        print(rx_ascii)
-        rxs = str(rx_ascii, 'utf-8')
-    
+def uart_read():  #функция для чтения принятых данных с COM порта
+    rx = uart.read(1)  #читаем 1 байт в hex виде
+    rx_ascii = binascii.hexlify(rx)  #переводим из hex в ascii для правильного отображения
+    rxs = str(rx_ascii, 'utf-8')
+    informating("<< " + rxs)
+    return rxs
+def uart_send(msg):
+    informating(">> " + msg)
+    uart.write(msg)
+
 
 
 
@@ -54,20 +52,23 @@ def informating(msg):
     print(msg)
     #sock.sendto(msg.encode(), (UDP_IP, UDP_PORT))
     
+#-----------------GPS------------------#
+def gps_init():
+    uart_mounting(GPS_UART_PORT, GPS_UART_SPEED)
 
-def module_check(status):
+def gps_check():
     #пингуем модуль
-    print("module_check start")
+    informating("module check start")
     gps.write(b"AT\n\r")
-    print("AT sended")
+    informating("AT sended")
     response1 = gps.readline().decode().strip()
-    print("get response")
+    informating("get response")
     if response1 == "OK":
         informating("module ready...")
-        status = 1
+        return 1
     else:
         informating("module start error: " + response1)
-        status = 0
+        return 0
 def gps_on(status):
     #Включаем gps
     gps.write(b"AT+CGPS=1\n\r")
@@ -88,6 +89,7 @@ def gps_info():
     ## не доделано
 
 if __name__ == "__main__":
+    pass
 
 
 
