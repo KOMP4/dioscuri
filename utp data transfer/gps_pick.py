@@ -1,75 +1,43 @@
-import serial
-import socket
+import subprocess
 from time import sleep
+from socket import *
 
 
-###Settings
-UDP_IP = "0.0.0.0"
-UDP_PORT = 22222
-UART_PORT = 'COM7'
+GPS_UART_PORT = "/dev/ttyS0"
 
-#-----------------UDP initialisation---------------#
-#sock = socket.socket(socket.AF_INET, # Internet
-#                socket.SOCK_DGRAM) # UDP
-#sock.bind((UDP_IP, UDP_PORT))
+host = '91.240.218.98'
+port = 22222
+addr = (host,port)
+#ssas
 
-#-----------------UART initialisation--------------#
-gps = serial.Serial(
-    port=UART_PORT,
-    baudrate=115200,
-    #parity=serial.PARITY_ODD,
-    #stopbits=serial.STOPBITS_TWO,
-    #bytesize=serial.SEVENBITS
-)
-sleep(2)#без этого уарт не робит!!!!
+def check_state(port):
+    responce1 = subprocess.run(["atcom","-p", f"{GPS_UART_PORT}", "AT"], stdout=subprocess.PIPE, stderr = subprocess.PIPE, text=True,)
+    responce1 = str(responce1)
+    if responce1 == "OK":
+        print("module work, responce: " + responce1)
+        return 1
+    else: 
+        print("module not work, response: : " + responce1)
+        return 0
 
-#Дублируем инфу во все каналы
-def informating(msg):
-    msg = str(msg)
-    print(msg)
-    #sock.sendto(msg.encode(), (UDP_IP, UDP_PORT))
+def get_data(port):
+    text = subprocess.run(["atcom","--port", f"{GPS_UART_PORT}", "AT+CGPSINFO"], stdout=subprocess.PIPE, text=True,)
+    text = str(text.stdout)
+    #text = text.split("\n")[3]
+    #text = text.strip("+CGPSINFO: ").split(',')
+    return text
+
+
+if __name__ == "__main__":
+
+    udp_socket = socket(AF_INET, SOCK_DGRAM)
     
+    while True:
+        data = get_data(GPS_UART_PORT)
+        print(data)
+        #coord = int(data[])
 
-def module_check(status):
-    #пингуем модуль
-    gps.write(b"AT\n\r")
-    response1 = gps.readline().decode().strip()
-    if response1 == "OK":
-        informating("module ready...")
-        status = 1
-    else:
-        informating("module start error: " + response1)
-        status = 0
-def gps_on(status):
-    #Включаем gps
-    gps.write(b"AT+CGPS=1\n\r")
-    #Спрашиваем состояние
-    gps.write(b"AT+CGPS?\n\r")
-    response2 = gps.readline().decode().strip()
-    if response2 == "+CGPS: 1,1":
-        informating("gps ready")
-        status = 1
-    else:
-        informating("gps not started, error: " + response2)
-        status = 0
-
-
-def gps_info():
-    gps.write(b"AT+CGPSINFO\n\r")
-    return gps.readline().decode()
-    ## не доделано
-
-status = 0
-module_check(status)
-gps_on(status)
-if status:
-    informating("gps start...")
-    switch = 1
-    while switch:
-        informating(f"location: {gps_info()}")
+        udp_socket.sendto(str(data).encode() , addr)
         sleep(2)
-else:
-    informating("rror")
 
-#sock.close()
-gps.close()
+    print(get_data(GPS_UART_PORT))
