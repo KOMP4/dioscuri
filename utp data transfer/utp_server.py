@@ -1,7 +1,7 @@
 import socket
 import serial
 
-UDP_IP = "0.0.0.0"
+UDP_IP = "192.168.56.1"
 UDP_PORT = 22222
 
 sock = socket.socket(socket.AF_INET, # Internet
