@@ -1,14 +1,15 @@
 import subprocess
-from time import sleep
+import _testimportmultiple
 from socket import *
+from time import *
 
 
 GPS_UART_PORT = "/dev/ttyS0"
 
-host = '91.240.218.98'
+host = '192.168.0.102'
 port = 22222
 addr = (host,port)
-#ssas
+
 
 def check_state(port):
     responce1 = subprocess.run(["atcom","-p", f"{GPS_UART_PORT}", "AT"], stdout=subprocess.PIPE, stderr = subprocess.PIPE, text=True,)
@@ -21,11 +22,25 @@ def check_state(port):
         return 0
 
 def get_data(port):
-    text = subprocess.run(["atcom","--port", f"{GPS_UART_PORT}", "AT+CGPSINFO"], stdout=subprocess.PIPE, text=True,)
+    text = subprocess.run(["atcom","--port", "/dev/ttyS0", "AT+CGPSINFO"], stdout=subprocess.PIPE, text=True,)
     text = str(text.stdout)
-    #text = text.split("\n")[3]
-    #text = text.strip("+CGPSINFO: ").split(',')
+    text = list(text.split("\n"))
+    for i in range(0, len(text)):
+        if "+CGPSINFO: " in text[i]:
+            cgps = text[i].strip("+CGPSINFO: ").split(',')
+
+            lat = float(cgps[0]) / 100
+            min_lat = lat % 1
+            lat = int(lat) + min_lat / 60 * 100
+
+            log = float(cgps[2]) / 100
+            min_log = log % 1
+            log = int(log) + min_log / 60 * 100
+
+            return lat, log
     return text
+    #text = text.strip("+CGPSINFO: ").split(',')
+    
 
 
 if __name__ == "__main__":
@@ -38,6 +53,8 @@ if __name__ == "__main__":
         #coord = int(data[])
 
         udp_socket.sendto(str(data).encode() , addr)
+        #sleep(2)
+        #udp_socket.sendto(f"time from start: {round(time()*10000000)}".encode() , addr)
         sleep(2)
 
     print(get_data(GPS_UART_PORT))
