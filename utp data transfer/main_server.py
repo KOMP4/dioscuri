@@ -1,5 +1,8 @@
 import socket
 import datetime
+
+
+
 UDP_IP = "192.168.0.102"  
 UDP_PORT = 22222
 
@@ -12,6 +15,8 @@ def get_data():
     data, addr = sock.recvfrom(1024) # buffer size is 1024 bytes
     print(f"[{current_time}] received message: %s" %data.decode())
     return f"[{current_time}] received message: %s" %data.decode()
-while True: 
-    get_data()
-9
+
+if __name__ == "__main__":
+
+    while True: 
+        get_data()

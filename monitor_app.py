@@ -58,42 +58,42 @@ def main(page: ft.Page):
                     url_template="https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                     on_image_error=lambda e: print("TileLayer Error"),
                 ),
-                # map.RichAttribution(
-                #     attributions=[
-                #         map.TextSourceAttribution(
-                #             text="OpenStreetMap Contributors",
-                #             on_click=lambda e: e.page.launch_url(
-                #                 "https://openstreetmap.org/copyright"
-                #             ),
-                #         ),
-                #         map.TextSourceAttribution(
-                #             text="Flet",
-                #             on_click=lambda e: e.page.launch_url("https://flet.dev"),
-                #         ),
-                #     ]
-                # ),
-                # map.SimpleAttribution(
-                #     text="Flet",
-                #     alignment=ft.alignment.top_right,
-                #     on_click=lambda e: print("Clicked SimpleAttribution"),
-                # ),
-                # map.MarkerLayer(
-                #     ref=marker_layer_ref,
-                #     markers=[
-                #         map.Marker(
-                #             content=ft.Icon(ft.icons.LOCATION_ON),
-                #             coordinates=map.MapLatitudeLongitude(30, 15),
-                #         ),
-                #         map.Marker(
-                #             content=ft.Icon(ft.icons.LOCATION_ON),
-                #             coordinates=map.MapLatitudeLongitude(10, 10),
-                #         ),
-                #         map.Marker(
-                #             content=ft.Icon(ft.icons.LOCATION_ON),
-                #             coordinates=map.MapLatitudeLongitude(25, 45),
-                #         ),
-                #     ],
-                # ),
+                map.RichAttribution(
+                    attributions=[
+                        map.TextSourceAttribution(
+                            text="OpenStreetMap Contributors",
+                            on_click=lambda e: e.page.launch_url(
+                                "https://openstreetmap.org/copyright"
+                            ),
+                        ),
+                        map.TextSourceAttribution(
+                            text="Flet",
+                            on_click=lambda e: e.page.launch_url("https://flet.dev"),
+                        ),
+                    ]
+                ),
+                map.SimpleAttribution(
+                    text="Flet",
+                    alignment=ft.alignment.top_right,
+                    on_click=lambda e: print("Clicked SimpleAttribution"),
+                ),
+                map.MarkerLayer(
+                    ref=marker_layer_ref,
+                    markers=[
+                        map.Marker(
+                            content=ft.Icon(ft.icons.LOCATION_ON),
+                            coordinates=map.MapLatitudeLongitude(35, 15),
+                        ),
+                        # map.Marker(
+                        #     content=ft.Icon(ft.icons.LOCATION_ON),
+                        #     coordinates=map.MapLatitudeLongitude(30, 15),
+                        # ),
+                        # map.Marker(
+                        #     content=ft.Icon(ft.icons.LOCATION_ON),
+                        #     coordinates=map.MapLatitudeLongitude(30, 15),
+                        # ),
+                    ],
+                ),
                 # map.CircleLayer(
                 #     ref=circle_layer_ref,
                 #     circles=[
@@ -117,9 +117,9 @@ def main(page: ft.Page):
                 #             ),
                 #             color=ft.colors.with_opacity(0.3, ft.colors.BLUE),
                 #             coordinates=[
-                #                 map.MapLatitudeLongitude(10, 10),
                 #                 map.MapLatitudeLongitude(30, 15),
-                #                 map.MapLatitudeLongitude(25, 45),
+                #                 map.MapLatitudeLongitude(30, 15),
+                #                 map.MapLatitudeLongitude(30, 15),
                 #             ],
                 #         ),
                 #     ],
@@ -132,9 +132,9 @@ def main(page: ft.Page):
                 #             gradient_colors=[ft.colors.BLACK, ft.colors.BLACK],
                 #             color=ft.colors.with_opacity(0.6, ft.colors.GREEN),
                 #             coordinates=[
-                #                 map.MapLatitudeLongitude(10, 10),
                 #                 map.MapLatitudeLongitude(30, 15),
-                #                 map.MapLatitudeLongitude(25, 45),
+                #                 map.MapLatitudeLongitude(30, 15),
+                #                 map.MapLatitudeLongitude(30, 15),
                 #             ],
                 #         ),
                 #     ],
