@@ -22,9 +22,10 @@ def get_coords(port):
     text = list(text.split("\n"))
     for i in range(0, len(text)):
         if "+CGPSINFO: " in text[i] and "AT" not in text[i]:
+
             cgps = text[i].strip("+CGPSINFO: ").split(',')
-            if cgps[0] == ' ':
-                return text
+            if cgps[0] == '':
+                return "no signal"
             lat = float(cgps[0]) / 100
             min_lat = lat % 1
             lat = int(lat) + min_lat / 60 * 100

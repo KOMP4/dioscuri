@@ -3,7 +3,7 @@ import _testimportmultiple
 from socket import *
 from time import *
 
-import gps as g
+import gps
 
 #-----------------UART SETTINGS------------------#
 GPS_UART_PORT = "COM7"
