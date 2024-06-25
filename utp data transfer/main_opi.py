@@ -24,6 +24,7 @@ if __name__ == "__main__":
     while True:
 
         data = gps.get_coords(GPS_UART_PORT)
+        
         print(data)
         udp_socket.sendto(str(data).encode() , addr)
 

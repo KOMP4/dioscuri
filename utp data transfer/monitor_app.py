@@ -20,16 +20,16 @@ def main(page: ft.Page):
                     coordinates=e.coordinates,
                 )
             )
-        elif e.name == "secondary_tap":
-            circle_layer_ref.current.circles.append(
-                map.CircleMarker(
-                    radius=random.randint(5, 10),
-                    coordinates=e.coordinates,
-                    color=ft.colors.random_color(),
-                    border_color=ft.colors.random_color(),
-                    border_stroke_width=4,
-                )
-            )
+        # elif e.name == "secondary_tap":
+        #     circle_layer_ref.current.circles.append(
+        #         map.CircleMarker(
+        #             radius=random.randint(5, 10),
+        #             coordinates=e.coordinates,
+        #             color=ft.colors.random_color(),
+        #             border_color=ft.colors.random_color(),
+        #             border_stroke_width=4,
+        #         )
+        #     )
         page.update()
 
     def handle_event(e: map.MapEvent):
@@ -39,6 +39,9 @@ def main(page: ft.Page):
 
     page.add(
         ft.Text("Click anywhere to add a Marker, right-click to add a CircleMarker."),
+    )
+    page.add(
+        
         map.Map(
             expand=True,
             configuration=map.MapConfiguration(
@@ -72,11 +75,11 @@ def main(page: ft.Page):
                         ),
                     ]
                 ),
-                map.SimpleAttribution(
-                    text="Flet",
-                    alignment=ft.alignment.top_right,
-                    on_click=lambda e: print("Clicked SimpleAttribution"),
-                ),
+                # map.SimpleAttribution(
+                #     text="Flet",
+                #     alignment=ft.alignment.top_right,
+                #     on_click=lambda e: print("Clicked SimpleAttribution"),
+                # ),
                 map.MarkerLayer(
                     ref=marker_layer_ref,
                     markers=[
