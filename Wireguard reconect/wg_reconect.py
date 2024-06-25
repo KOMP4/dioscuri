@@ -12,6 +12,7 @@ def ping(adr):
 
 
 if __name__ == "__main__":
+    sleep(60)
     tryes = 1
     while(tryes <= 20):
     #Test Ping Sucessful
