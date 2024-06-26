@@ -16,9 +16,11 @@ def check_state(port):
         return 0
 
 def get_coords(port):
+    
     text = subprocess.run(["atcom","--port", f"{port}", "--timeout", "2", "AT+CGPSINFO"], stdout=subprocess.PIPE, text=True,)
     text = str(text.stdout)
     text = list(text.split("\n"))
+    
     for i in range(0, len(text)):
         if "+CGPSINFO: " in text[i] and "AT" not in text[i]:
 
