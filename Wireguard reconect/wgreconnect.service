@@ -1,0 +1,14 @@
+[Unit]
+Description=Wireguard Reconnect
+After=multi-user.target
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/python3 Wireguard_Reconnect.py
+WorkingDirectory=/opt/python_wireguard_auto_reconnect/
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
