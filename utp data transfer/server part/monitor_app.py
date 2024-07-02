@@ -1,9 +1,15 @@
 import random
 import flet as ft
-import flet.map as map
 
+import flet.map as map
+import plotly.express as px
+import pandas as pd
+from flet.plotly_chart import PlotlyChart
+from faker import Faker
 
 def main(page: ft.Page):
+    
+    
     marker_layer_ref = ft.Ref[map.MarkerLayer]()
 
     sat_marker = map.Marker(
