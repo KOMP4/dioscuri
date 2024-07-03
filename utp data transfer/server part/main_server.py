@@ -19,13 +19,21 @@ def get_data():
     return f"[{current_time}] received message: %s" %data.decode()
 
 if __name__ == "__main__":
-    start_time = datetime.datetime.now().time()
+    
+    start_time = str(datetime.datetime.now().time())
+    start_time_fix = str()
+    for i in start_time:
+        if i == ':':
+            start_time_fix = start_time_fix + ','
+        else:
+            start_time_fix = start_time_fix + str(i)
+    start_time = start_time_fix
 
-    log = open(f"log_from_{start_time}.txt", "a")
+    log = open(f"server_log_from_{start_time}.txt", "a")
 
 
-
+    print("server start")
     while True: 
-        log = open(f"log_from_{start_time}\n", "a")
+        log = open(f"server_log_from_{start_time}.txt", "a")
         log.write(get_data())
         log.close()

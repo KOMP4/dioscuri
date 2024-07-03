@@ -38,7 +38,7 @@ def get_coords(port):
             log = int(log) + min_log / 60 * 100
 
             return lat, log
-    return f"incorect output:/n {text}"
+    return f"incorect output: {text}"
     #text = text.strip("+CGPSINFO: ").split(',')
     
 

@@ -11,7 +11,7 @@ def main(page: ft.Page):
     
     
     marker_layer_ref = ft.Ref[map.MarkerLayer]()
-
+    
     sat_marker = map.Marker(
         content=ft.Icon(ft.icons.LOCATION_ON),
         coordinates=map.MapLatitudeLongitude(30, 15),
