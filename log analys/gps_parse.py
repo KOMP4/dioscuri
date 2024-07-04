@@ -29,7 +29,7 @@ for i in range(0, len(original)):
 fin = open('clear_server_log.txt', 'w')
 for i in range(0, len(fixed)):
     fixed[i] = fixed[i][:9] + fixed[i][13:]
-    fin.write(fixed[i][1:9] + fixed[i][13:] + '\n')
+    fin.write(fixed[i][1:12] + fixed[i][13:] + '\n')
 
 fin.close()
 fin = open('clear_server_log.txt', 'r')
@@ -41,23 +41,23 @@ for i in range(0, len(for_hex)):
     if "dcba" in for_hex[i]:
         hex_udp.write("a4b3" + for_hex[i][for_hex[i].find("dcba"):])
 
-gps_udp = open('gps_from_udp.txt', 'w')
+gps_udp = open('gps_from_udp.csv', 'w')
+gps_udp.write("id,lat,long\n")
 for i in range(0, len(for_hex)):
+    
     if "no signal" not in for_hex[i]:
-        cords = for_hex[i][for_hex[i].find("(")+1:for_hex[i].find(")")] + ", 0.000"
-        to_write = f"""<Placemark id="{i+100}">""" + "\n" + f"<name>{i}</name>" + "\n" + "<styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl>" + f"""<Point>
-			    <extrude>1</extrude>
-			    <coordinates>{cords}</coordinates>
-		</Point>""" + "\n" + "</Placemark>\n\n";
+        cords = for_hex[i][for_hex[i].find("(")+1:for_hex[i].find(")")]
+        to_write = f"{340+ i}, {cords}\n"
         # gps_udp.write(for_hex[i][for_hex[i].find("(")+1:for_hex[i].find(")")] + ", 0.000" + "\n") 
         gps_udp.write(to_write)
 
 
-    # <Placemark id="ffd">
-	# 	<name>56°24&apos;42.1&quot;N 40°58&apos;31.4&quot;E</name>
-	# 	<styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl>
-		# <Point>
-		# 	<extrude>1</extrude>
-		# 	<coordinates>40.9753962,56.411689,0</coordinates>
-		# </Point>
-	# </Placemark>
+clear_log_time = open('clear_server_log.txt', 'r')
+clear_time = clear_log_time.read().split('\n')
+
+avg_ping = int()
+for i in range(0, len(clear_time)-2):
+    avg_ping += int(clear_time[i+1][6:11]) - int(clear_time[i][6:11])
+avg_ping = avg_ping / len(clear_time)
+print(avg_ping*10)
+# print(clear_time[2][6:11])
