@@ -1,0 +1,2576 @@
+    <Placemark id="0">
+    <name>0</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="1">
+    <name>1</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40941248333334, 40.97592808333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="2">
+    <name>2</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40941248333334, 40.97592808333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="4">
+    <name>4</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="5">
+    <name>5</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="6">
+    <name>6</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="7">
+    <name>7</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="8">
+    <name>8</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="9">
+    <name>9</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="10">
+    <name>10</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="11">
+    <name>11</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613666666665, 40.97564051666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="19">
+    <name>19</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961359999999, 40.97564055000001, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="20">
+    <name>20</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961359999999, 40.97564055000001, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="21">
+    <name>21</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961363333333, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="22">
+    <name>22</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961363333333, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="23">
+    <name>23</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961359999999, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="24">
+    <name>24</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961354999999, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="25">
+    <name>25</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961354999999, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="26">
+    <name>26</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613499999985, 40.97564061666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="27">
+    <name>27</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612383333325, 40.97564061666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="28">
+    <name>28</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612383333325, 40.97564061666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="29">
+    <name>29</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612383333325, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="30">
+    <name>30</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4096124, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="31">
+    <name>31</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961348333333, 40.975640633333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="32">
+    <name>32</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4096124, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="33">
+    <name>33</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961211666666, 40.975640883333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="34">
+    <name>34</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961348333333, 40.975640633333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="35">
+    <name>35</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612083333336, 40.975640866666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="36">
+    <name>36</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961343333334, 40.975640633333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="37">
+    <name>37</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961341666666, 40.975640633333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="38">
+    <name>38</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961341666666, 40.975640633333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="39">
+    <name>39</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961335, 40.975640633333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="40">
+    <name>40</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961313333334, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="41">
+    <name>41</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961313333334, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="42">
+    <name>42</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961333333333, 40.975640633333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="43">
+    <name>43</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961356666667, 40.97564065, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="44">
+    <name>44</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961356666667, 40.97564065, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="45">
+    <name>45</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961343333334, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="46">
+    <name>46</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613166666674, 40.975640533333326, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="47">
+    <name>47</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409613166666674, 40.975640533333326, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="48">
+    <name>48</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961314999999, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="49">
+    <name>49</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961314999999, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="50">
+    <name>50</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961298333334, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="51">
+    <name>51</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961278333332, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="52">
+    <name>52</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961278333332, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="53">
+    <name>53</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612816666666, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="54">
+    <name>54</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4096128, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="55">
+    <name>55</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4096128, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="56">
+    <name>56</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961285, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="57">
+    <name>57</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4096129, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="58">
+    <name>58</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4096129, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="59">
+    <name>59</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4096128, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="60">
+    <name>60</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612816666666, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="61">
+    <name>61</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612816666666, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="62">
+    <name>62</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961273333334, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="63">
+    <name>63</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961260000001, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="64">
+    <name>64</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961260000001, 40.97564056666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="65">
+    <name>65</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612683333336, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="66">
+    <name>66</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961260000001, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="67">
+    <name>67</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961260000001, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="68">
+    <name>68</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612450000004, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="69">
+    <name>69</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961253333334, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="70">
+    <name>70</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961253333334, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="71">
+    <name>71</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4096125, 40.97564058333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="72">
+    <name>72</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961241666667, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="73">
+    <name>73</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961241666667, 40.9756406, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="74">
+    <name>74</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612083333336, 40.975640866666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="75">
+    <name>75</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961213333334, 40.975640866666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="76">
+    <name>76</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409611250000005, 40.97564221666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="77">
+    <name>77</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409611250000005, 40.97564221666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="78">
+    <name>78</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961133333333, 40.975642183333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="79">
+    <name>79</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409611349999984, 40.97564211666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="80">
+    <name>80</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409611349999984, 40.97564211666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="81">
+    <name>81</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961158333333, 40.9756422, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="82">
+    <name>82</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961156666667, 40.97564213333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="83">
+    <name>83</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961156666667, 40.97564213333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="84">
+    <name>84</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961158333333, 40.97564216666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="85">
+    <name>85</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961226666667, 40.9756409, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="86">
+    <name>86</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961226666667, 40.9756409, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="87">
+    <name>87</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961303333333, 40.97564021666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="88">
+    <name>88</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961308333333, 40.975640166666665, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="89">
+    <name>89</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961308333333, 40.975640166666665, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="90">
+    <name>90</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961311666667, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="91">
+    <name>91</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961311666667, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="92">
+    <name>92</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961311666667, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="93">
+    <name>93</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961311666667, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="94">
+    <name>94</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961311666667, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="95">
+    <name>95</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961311666667, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="96">
+    <name>96</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961311666667, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="97">
+    <name>97</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961311666667, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="98">
+    <name>98</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409580549999994, 40.975687416666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="99">
+    <name>99</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961309999999, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="100">
+    <name>100</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961309999999, 40.97564006666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="101">
+    <name>101</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961263333333, 40.97564033333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="102">
+    <name>102</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961263333333, 40.97564033333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="103">
+    <name>103</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409612383333325, 40.97564078333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="104">
+    <name>104</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961228333334, 40.975640766666665, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="105">
+    <name>105</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961228333334, 40.975640766666665, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="106">
+    <name>106</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961220000001, 40.97564078333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="107">
+    <name>107</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40961216666666, 40.97564083333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="108">
+    <name>108</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409611766666664, 40.97564100000001, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="109">
+    <name>109</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409611766666664, 40.97564100000001, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="110">
+    <name>110</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409608083333325, 40.97564176666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="111">
+    <name>111</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409607083333334, 40.97564216666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="112">
+    <name>112</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960546666666, 40.975642533333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="113">
+    <name>113</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960546666666, 40.975642533333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="114">
+    <name>114</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960355000001, 40.97564298333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="115">
+    <name>115</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.409602916666664, 40.975643116666674, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="116">
+    <name>116</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960239999999, 40.97564321666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="117">
+    <name>117</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960239999999, 40.97564321666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="118">
+    <name>118</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960185000001, 40.975643016666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="119">
+    <name>119</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960171666667, 40.975643116666674, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="120">
+    <name>120</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960140000001, 40.97564323333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="121">
+    <name>121</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960135, 40.975643250000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="122">
+    <name>122</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960135, 40.975643250000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="123">
+    <name>123</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960135, 40.975643250000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="124">
+    <name>124</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960135, 40.975643250000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="125">
+    <name>125</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960135, 40.975643250000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="126">
+    <name>126</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960135, 40.975643250000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="127">
+    <name>127</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960135, 40.975643250000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="128">
+    <name>128</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40960135, 40.975643250000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="129">
+    <name>129</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.40953228333333, 40.97575848333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="213">
+    <name>213</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411460133333335, 40.97597916666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="214">
+    <name>214</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411460133333335, 40.97597916666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="215">
+    <name>215</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411460133333335, 40.97597916666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="216">
+    <name>216</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4114807, 40.97593858333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="217">
+    <name>217</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4114807, 40.97593858333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="218">
+    <name>218</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4114807, 40.97593858333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="219">
+    <name>219</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411499166666665, 40.97590651666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="220">
+    <name>220</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411499166666665, 40.97590651666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="221">
+    <name>221</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41151588333334, 40.975881783333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="222">
+    <name>222</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41151588333334, 40.975881783333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="223">
+    <name>223</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41151588333334, 40.975881783333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="224">
+    <name>224</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41151588333334, 40.975881783333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="225">
+    <name>225</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41153228333332, 40.97585851666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="226">
+    <name>226</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41153228333332, 40.97585851666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="227">
+    <name>227</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41153228333332, 40.97585851666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="228">
+    <name>228</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41153228333332, 40.97585851666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="229">
+    <name>229</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168088333334, 40.97558455, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="230">
+    <name>230</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168088333334, 40.97558455, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="231">
+    <name>231</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168088333334, 40.97558455, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="232">
+    <name>232</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169216666667, 40.97558603333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="233">
+    <name>233</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169216666667, 40.97558603333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="234">
+    <name>234</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169216666667, 40.97558603333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="235">
+    <name>235</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41170343333333, 40.975587516666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="236">
+    <name>236</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41170343333333, 40.975587516666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="237">
+    <name>237</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41170343333333, 40.975587516666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="238">
+    <name>238</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41170343333333, 40.975587516666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="332">
+    <name>332</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41191908333334, 40.975985300000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="333">
+    <name>333</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41191908333334, 40.975985300000005, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="334">
+    <name>334</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41191595000001, 40.97599146666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="335">
+    <name>335</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41191595000001, 40.97599146666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="336">
+    <name>336</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41181506666666, 40.97570245, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="337">
+    <name>337</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41181506666666, 40.97570245, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="338">
+    <name>338</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41173151666667, 40.97531394999999, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="339">
+    <name>339</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41173151666667, 40.97531394999999, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="340">
+    <name>340</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411744283333334, 40.97539553333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="341">
+    <name>341</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411744283333334, 40.97539553333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="342">
+    <name>342</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41175133333333, 40.975435233333336, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="343">
+    <name>343</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41175133333333, 40.975435233333336, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="344">
+    <name>344</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178651666667, 40.97577043333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="345">
+    <name>345</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178651666667, 40.97577043333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="346">
+    <name>346</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178516666667, 40.97580223333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="347">
+    <name>347</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178516666667, 40.97580223333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="348">
+    <name>348</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178516666667, 40.97580223333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="349">
+    <name>349</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179153333333, 40.975694733333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="350">
+    <name>350</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179153333333, 40.975694733333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="351">
+    <name>351</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411795500000004, 40.975627016666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="352">
+    <name>352</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411795500000004, 40.975627016666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="353">
+    <name>353</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179498333333, 40.97556603333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="354">
+    <name>354</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179498333333, 40.97556603333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="355">
+    <name>355</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179635, 40.97552725, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="356">
+    <name>356</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179635, 40.97552725, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="357">
+    <name>357</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411798233333336, 40.97549351666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="358">
+    <name>358</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411798233333336, 40.97549351666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="359">
+    <name>359</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179703333334, 40.975483483333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="360">
+    <name>360</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179703333334, 40.975483483333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="361">
+    <name>361</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179363333333, 40.975491166666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="362">
+    <name>362</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179363333333, 40.975491166666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="363">
+    <name>363</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179363333333, 40.975491166666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="364">
+    <name>364</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178841666666, 40.97549881666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="365">
+    <name>365</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178841666666, 40.97549881666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="366">
+    <name>366</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411784350000005, 40.97549135, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="367">
+    <name>367</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411784350000005, 40.97549135, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="368">
+    <name>368</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411781649999995, 40.97547423333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="369">
+    <name>369</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411781649999995, 40.97547423333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="370">
+    <name>370</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411779633333325, 40.975473699999995, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="371">
+    <name>371</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411779633333325, 40.975473699999995, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="372">
+    <name>372</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411781149999996, 40.975498083333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="373">
+    <name>373</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411781149999996, 40.975498083333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="374">
+    <name>374</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179091666667, 40.97553034999999, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="375">
+    <name>375</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179091666667, 40.97553034999999, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="376">
+    <name>376</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41179091666667, 40.97553034999999, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="377">
+    <name>377</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178453333334, 40.97553753333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="378">
+    <name>378</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41178453333334, 40.97553753333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="379">
+    <name>379</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411729016666676, 40.975467566666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="380">
+    <name>380</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411729016666676, 40.975467566666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="381">
+    <name>381</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41170271666667, 40.97542573333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="382">
+    <name>382</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41170271666667, 40.97542573333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="383">
+    <name>383</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168604999999, 40.97540815, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="384">
+    <name>384</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168604999999, 40.97540815, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="385">
+    <name>385</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41167886666667, 40.97539723333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="386">
+    <name>386</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41167886666667, 40.97539723333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="387">
+    <name>387</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411675499999994, 40.97539605, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="388">
+    <name>388</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411675499999994, 40.97539605, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="389">
+    <name>389</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411672816666666, 40.97540086666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="390">
+    <name>390</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411672816666666, 40.97540086666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="391">
+    <name>391</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41167463333333, 40.97538326666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="392">
+    <name>392</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41167463333333, 40.97538326666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="393">
+    <name>393</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411674649999995, 40.975377066666674, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="394">
+    <name>394</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411674649999995, 40.975377066666674, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="395">
+    <name>395</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411675216666666, 40.975356766666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="396">
+    <name>396</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411675216666666, 40.975356766666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="397">
+    <name>397</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41167498333332, 40.97534923333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="398">
+    <name>398</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411677766666664, 40.97534363333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="399">
+    <name>399</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411677766666664, 40.97534363333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="400">
+    <name>400</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168145, 40.97534611666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="401">
+    <name>401</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411682750000004, 40.9753472, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="402">
+    <name>402</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168406666667, 40.97535848333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="403">
+    <name>403</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411684666666666, 40.975364400000004, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="404">
+    <name>404</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168483333332, 40.97536631666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="405">
+    <name>405</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411684900000004, 40.97536731666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="406">
+    <name>406</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411684900000004, 40.97536731666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="407">
+    <name>407</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168491666667, 40.975367899999995, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="408">
+    <name>408</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169068333333, 40.9753926, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="409">
+    <name>409</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169101666666, 40.9753943, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="410">
+    <name>410</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169101666666, 40.9753943, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="411">
+    <name>411</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169119999999, 40.97539513333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="412">
+    <name>412</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169133333332, 40.97539596666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="413">
+    <name>413</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169133333332, 40.97539596666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="414">
+    <name>414</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169136666667, 40.97539655, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="415">
+    <name>415</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169143333333, 40.97539716666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="416">
+    <name>416</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169173333332, 40.975398166666665, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="417">
+    <name>417</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169173333332, 40.975398166666665, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="418">
+    <name>418</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169199999999, 40.975398549999994, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="419">
+    <name>419</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169215, 40.975398750000004, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="420">
+    <name>420</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169215, 40.975398750000004, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="421">
+    <name>421</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169218333332, 40.97539880000001, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="422">
+    <name>422</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411692233333326, 40.97539858333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="423">
+    <name>423</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411692233333326, 40.97539858333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="424">
+    <name>424</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169203333334, 40.97539836666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="425">
+    <name>425</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4116919, 40.97539836666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="426">
+    <name>426</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4116919, 40.97539836666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="427">
+    <name>427</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169180000001, 40.97539836666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="428">
+    <name>428</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169176666667, 40.97539805, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="429">
+    <name>429</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169176666667, 40.97539805, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="430">
+    <name>430</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169175, 40.97539818333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="431">
+    <name>431</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169175, 40.975398283333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="432">
+    <name>432</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169175, 40.975398283333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="433">
+    <name>433</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169175, 40.9753986, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="434">
+    <name>434</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169114999999, 40.9753974, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="435">
+    <name>435</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169114999999, 40.9753974, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="436">
+    <name>436</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169083333333, 40.97539678333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="437">
+    <name>437</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169085, 40.97539766666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="438">
+    <name>438</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41169085, 40.97539766666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="439">
+    <name>439</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411690083333326, 40.97539653333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="440">
+    <name>440</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168968333333, 40.97539616666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="441">
+    <name>441</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168968333333, 40.97539616666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="442">
+    <name>442</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689633333324, 40.97539634999999, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="443">
+    <name>443</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168958333332, 40.975396466666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="444">
+    <name>444</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168958333332, 40.975396466666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="445">
+    <name>445</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168955, 40.97539653333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="446">
+    <name>446</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168951666668, 40.975396466666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="447">
+    <name>447</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168951666668, 40.975396466666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="448">
+    <name>448</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168944999999, 40.97539666666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="449">
+    <name>449</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168941666667, 40.97539656666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="450">
+    <name>450</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168941666667, 40.97539656666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="451">
+    <name>451</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168938333333, 40.97539683333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="452">
+    <name>452</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689366666664, 40.97539693333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="453">
+    <name>453</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689366666664, 40.97539693333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="454">
+    <name>454</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689366666664, 40.975396866666664, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="455">
+    <name>455</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168935, 40.97539656666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="456">
+    <name>456</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689333333335, 40.975396583333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="457">
+    <name>457</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168931666666, 40.97539656666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="458">
+    <name>458</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168931666666, 40.97539656666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="459">
+    <name>459</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689333333335, 40.97539645, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="460">
+    <name>460</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689333333335, 40.9753965, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="461">
+    <name>461</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689333333335, 40.9753965, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="462">
+    <name>462</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689333333335, 40.97539651666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="463">
+    <name>463</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689333333335, 40.97539651666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="464">
+    <name>464</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168923333333, 40.975396583333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="465">
+    <name>465</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168921666667, 40.97539645, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="466">
+    <name>466</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168921666667, 40.97539645, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="467">
+    <name>467</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689200000005, 40.97539638333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="468">
+    <name>468</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689200000005, 40.97539636666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="469">
+    <name>469</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168916666667, 40.975396333333336, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="470">
+    <name>470</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168915, 40.97539623333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="471">
+    <name>471</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168915, 40.97539623333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="472">
+    <name>472</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411689116666665, 40.975396200000006, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="473">
+    <name>473</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411688983333335, 40.97539625000001, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="474">
+    <name>474</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.411688983333335, 40.97539625000001, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="475">
+    <name>475</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168899999999, 40.97539618333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="476">
+    <name>476</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168899999999, 40.97539618333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="477">
+    <name>477</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168899999999, 40.9753961, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="478">
+    <name>478</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.975396133333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="479">
+    <name>479</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.975396133333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="480">
+    <name>480</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.97539623333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="481">
+    <name>481</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.975396483333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="482">
+    <name>482</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.975396483333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="483">
+    <name>483</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168899999999, 40.97539663333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="484">
+    <name>484</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168899999999, 40.97539663333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="485">
+    <name>485</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168899999999, 40.975396716666665, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="486">
+    <name>486</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.97539675, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="487">
+    <name>487</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.97539675, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="488">
+    <name>488</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168899999999, 40.97539678333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="489">
+    <name>489</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.97539675, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="490">
+    <name>490</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168901666667, 40.97539675, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="491">
+    <name>491</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168899999999, 40.9753969, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="492">
+    <name>492</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168896666667, 40.97539703333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="493">
+    <name>493</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168896666667, 40.97539703333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="494">
+    <name>494</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168893333334, 40.975397183333335, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="495">
+    <name>495</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168891666666, 40.97539728333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="496">
+    <name>496</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168891666666, 40.97539728333333, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="497">
+    <name>497</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4116889, 40.9753974, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="498">
+    <name>498</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4116889, 40.97539726666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="499">
+    <name>499</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4116889, 40.97539726666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="500">
+    <name>500</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4116889, 40.97539723333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="501">
+    <name>501</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4116889, 40.97539723333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="502">
+    <name>502</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.4116889, 40.97539723333334, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="503">
+    <name>503</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168893333334, 40.97539706666666, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="504">
+    <name>504</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>56.41168896666667, 40.97539691666667, 0.000</coordinates>
+            </Point>
+    </Placemark>
+
+    <Placemark id="505">
+    <name>505</name>
+    <styleUrl>#__managed_style_05AF603B4A31B35A2E60</styleUrl><Point>
+                    <extrude>1</extrude>
+                    <coordinates>, 0.000</coordinates>
+            </Point>
+    </Placemark>
+

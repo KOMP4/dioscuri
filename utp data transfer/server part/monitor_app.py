@@ -1,15 +1,12 @@
-import random
+
 import flet as ft
 
 import flet.map as map
-import plotly.express as px
-import pandas as pd
-from flet.plotly_chart import PlotlyChart
-from faker import Faker
+
 
 def main(page: ft.Page):
     
-    
+
     marker_layer_ref = ft.Ref[map.MarkerLayer]()
     
     sat_marker = map.Marker(
@@ -30,11 +27,6 @@ def main(page: ft.Page):
             map.TileLayer(
                 url_template="https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 on_image_error=lambda e: print("TileLayer Error"),
-            ),
-            map.SimpleAttribution(
-                text="Flet",
-                alignment=ft.alignment.top_right,
-                on_click=lambda e: print("Clicked SimpleAttribution"),
             ),
             map.MarkerLayer(
                 #ref=marker_layer_ref,
