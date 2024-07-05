@@ -61,3 +61,24 @@ for i in range(0, len(clear_time)-2):
 avg_ping = avg_ping / len(clear_time)
 print(avg_ping*10)
 # print(clear_time[2][6:11])
+
+bad_log = open('server_log.txt', 'r')
+log_new_line = bad_log.read()
+fixx = str()
+
+for i in log_new_line:
+    if i == "[":
+        fixx = fixx + '\n'
+    else:
+        fixx = fixx + str(i)
+
+fixx = fixx.split('\n')
+new = list()
+
+for i in range(1, len(fixx)):
+    if "08" in fixx[i]:
+        new.append(str(int(fixx[i][:2]) + 3) + fixx[i][2:] + '\n')
+    else:
+        new.append(fixx[i])
+for i in range(1, len(new)):
+    print(new[i])
