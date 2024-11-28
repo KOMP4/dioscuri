@@ -1,0 +1,14 @@
+../Core/shiftreg.c:36:6:ShiftRegs_init	8	static
+../Core/shiftreg.c:44:6:ShiftRegs	16	static
+../Core/shiftreg.c:67:6:blue_led	16	static
+../Core/shiftreg.c:81:6:red_led	16	static
+../Core/shiftreg.c:95:6:yellow_led	16	static
+../Core/shiftreg.c:109:6:green_led	16	static
+../Core/shiftreg.c:123:6:white_led	16	static
+../Core/shiftreg.c:137:6:bmp_cs	16	static
+../Core/shiftreg.c:151:6:lis3mdl_cs	16	static
+../Core/shiftreg.c:165:6:lsm6ds_cs	16	static
+../Core/shiftreg.c:181:6:RF_ShiftRegs	16	static
+../Core/shiftreg.c:198:6:NRF_cs	16	static
+../Core/shiftreg.c:216:6:NRF_ce	16	static
+../Core/shiftreg.c:235:6:rf_led	16	static

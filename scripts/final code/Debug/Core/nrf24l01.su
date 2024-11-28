@@ -1,0 +1,8 @@
+../Core/nrf24l01.c:15:9:NRF_Read_reg	32	static
+../Core/nrf24l01.c:41:6:NRF_Send_reg	32	static
+../Core/nrf24l01.c:60:6:NRF_Send_data	32	static
+../Core/nrf24l01.c:84:6:NRF_Set_RX_addres	24	static
+../Core/nrf24l01.c:96:6:NRF_Set_TX_addres	24	static
+../Core/nrf24l01.c:108:6:NRF_Set_RX	8	static
+../Core/nrf24l01.c:132:6:NRF_Set_TX	8	static
+../Core/nrf24l01.c:154:6:NRF_Init	8	static
